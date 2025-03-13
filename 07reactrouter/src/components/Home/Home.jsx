@@ -31,12 +31,12 @@ export default function Home() {
                     </div>
                 </div>
 
-                <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
+                <div className="animate-bounce absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
                     <img className="w-96" src="https://img.freepik.com/free-vector/green-leaves-round-logo_78370-2097.jpg?uid=R32176361&ga=GA1.1.2028958094.1725276662&semt=ais_authors_boost" alt="image1" />
                 </div>
             </aside>
 
-            <div className="grid  place-items-center sm:mt-20">
+            <div className=" grid  place-items-center sm:mt-20">
                 <img className="sm:w-96 w-48" src="https://img.freepik.com/free-vector/flat-gradient-nature-concept-logotype_52683-13458.jpg?uid=R32176361&ga=GA1.1.2028958094.1725276662&semt=ais_authors_boost" alt="image2" />
             </div>
 
